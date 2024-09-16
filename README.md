@@ -1,4 +1,5 @@
-# Crypto Reverse Engineering, SMM Marketing & Arbitrage Project
+![Profile Banner](./banner.webp)
+# Crypt Files [VmProtect] Reverse Engineering, SMM Marketing & Arbitrage Project
 
 ## Overview
 
