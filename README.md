@@ -1,4 +1,4 @@
-![Profile Banner](./banner.webp)
+![Profile Banner](./banner.jpg)
 # Crypt Files [VmProtect] Reverse Engineering, SMM Marketing & Arbitrage Project
 
 ## Overview
@@ -29,3 +29,5 @@ This project combines several advanced technologies and methodologies to build a
 - **PostgreSQL**: For handling more complex database queries and analytics.
 - **MongoDB**: A NoSQL database for flexible, document-based data.
 - **Redis**: In-memory data structure store for caching and real-time analytics.
+
+
