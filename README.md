@@ -7,7 +7,7 @@ This project combines several advanced technologies and methodologies to build a
 
 ## Key Features
 
-- **Crypto Reverse Engineering**: Analyze blockchain transactions and smart contracts.
+- **Reverse Engineering**: Analyze blockchain transactions and smart contracts.
 - **SMM Marketing**: Automated marketing strategies for social media platforms.
 - **Arbitrage**: Identify and exploit price differences in cryptocurrency markets.
 - **Database Support**: MySQL, PostgreSQL, MongoDB, and Redis integration for efficient data storage and retrieval.
