@@ -34,4 +34,4 @@ This project combines several advanced technologies and methodologies to build a
 - **MongoDB**: A NoSQL database for flexible, document-based data.
 - **Redis**: In-memory data structure store for caching and real-time analytics.
 
-![Profile Banner](./banner.jpg)
+![Profile Banner](./tts.jpg)
